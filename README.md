@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>web</title>
+    
 </head>
 <body>
    <h1>WC3</h1>
@@ -15,7 +15,7 @@
         <li><a href="web3.html">web3</a></li><br>
         <li><a href="web4.html">web4</a></li><br>
 
-    </ol>
+    
     
 </body>
 </html>
